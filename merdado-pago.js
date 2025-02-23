@@ -1,5 +1,6 @@
 const m = "merdado pago"
 
-const e = "pagamento"
 
-console.log(m, e)
+
+const p = "pagamento"
+console.log(m, p)
